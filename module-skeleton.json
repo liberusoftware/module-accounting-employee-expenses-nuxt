@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-employee-expenses-nuxt",
+  "capabilityKey": "liberusoftware/module-accounting-employee-expenses",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-accounting-employee-expenses-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/accounting/nextjs/employee-expenses.md",
+  "presentationPlan": "projects/accounting/nuxt/employee-expenses.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
